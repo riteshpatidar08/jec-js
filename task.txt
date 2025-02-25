@@ -1,0 +1,38 @@
+1️⃣ Even or Odd: Take a number as input and check whether it is even or odd.
+
+2️⃣ Positive, Negative, or Zero: Take a number as input and check whether it is positive, negative, or zero.
+
+3️⃣ Pass or Fail: Take a student's marks as input. If the marks are above 40, print "Pass"; otherwise, print "Fail."
+
+4️⃣ Greatest of Two Numbers: Take two numbers as input and print the greater number.
+
+
+SWITCH - CASE TASK 
+
+
+1️⃣ Day of the Week
+
+📝 Task Description:
+Take a number (1-7) as input, representing the days of the week.
+Print the corresponding day (1 = Sunday, 2 = Monday, etc.).
+If the number is not between 1-7, print "Invalid input".
+
+
+ 2️⃣Task Description:
+
+Take a character (a-z or A-Z) as input.
+Check whether it is a vowel (a, e, i, o, u) or a consonant using switch-case.
+If it's not a valid alphabet letter, print "Invalid input".
+
+
+3️⃣ Calculator (Basic Operations)
+📝 Task Description:
+
+Take two numbers and an operator (+, -, *, /) as input.
+Perform the corresponding operation and print the result.
+If an invalid operator is entered, print "Invalid operator".
+
+
+
+3.14.7 => setup  
+4.0.0 =>

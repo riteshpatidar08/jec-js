@@ -1,6 +1,4 @@
 
-
-
 //FUNCTIONS 
 const result = greet() ;
 console.log(result)
@@ -16,7 +14,7 @@ const sum = function(a,b){
 return  a+b ;
 }
 
-//arrow function 
+//NOTE arrow function 
 //single line
 //multiline 
 
@@ -31,7 +29,6 @@ const anotherSum = () => {
 console.log(anotherSum()) ;
 
 console.log('hello')
-
 
 //1.git init to initialize git in the current folder its started to track changes in you current working directory
 

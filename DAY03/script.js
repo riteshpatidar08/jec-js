@@ -143,6 +143,6 @@ const car = {
     }
 }
 
-console.log(car.getCarDetails())
+console.log(car.getCarDetails()) 
 
 
